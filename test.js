@@ -14,3 +14,4 @@ if (condition) {
 }
 pfff
 const a = 5;
+var aa = 3
