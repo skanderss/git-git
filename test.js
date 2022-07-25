@@ -1,4 +1,0 @@
-yellow
-red
-blue 
-black
